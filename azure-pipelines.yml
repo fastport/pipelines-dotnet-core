@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  name: Nick's Pool
 
 variables:
   buildConfiguration: 'Release'
