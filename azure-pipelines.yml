@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: nicks pools
+  vmImage: 'windows-latest'
 
 variables:
   buildConfiguration: 'Release'
