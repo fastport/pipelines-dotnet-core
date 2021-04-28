@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: Nick's Pool
+  name: nicks pools
 
 variables:
   buildConfiguration: 'Release'
